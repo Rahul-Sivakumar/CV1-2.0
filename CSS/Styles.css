@@ -1,0 +1,22 @@
+img{ height:175px;}
+hr{
+  background-color: white;
+  border-style: dotted none none;
+  border-color: grey;
+  border-width: 5px;
+  width: 5%;
+}
+h1{color: #EF6D6D;
+ font-family: 'Sacramento', cursive;
+
+}
+h3{color: #66BFBF;
+font-family: 'Montserrat', sans-serif;}
+h5{color: Blue}
+
+a:hover{
+  color:pink;
+}
+.img{
+  border-radius:50%;
+}
